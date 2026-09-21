@@ -8,6 +8,7 @@ public class CreateContactTest {
 	{
 		System.out.println("jbhgv");
 		System.out.println("hbjhb");
+		System.out.println("with great powers come great responsiblities");
 	}
 
 }
