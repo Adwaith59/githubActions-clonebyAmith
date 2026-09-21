@@ -7,6 +7,8 @@ public class CreateContactTest {
 	public void CreateContactTest()
 	{
 		System.out.println("jbhgv");
+		System.out.println("hbjhb");
+		System.out.println("with great powers come great responsiblities");
 	}
 
 }
