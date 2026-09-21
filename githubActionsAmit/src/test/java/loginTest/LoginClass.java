@@ -5,6 +5,8 @@ public class LoginClass {
 		System.out.println("Login to application");
 		
 		System.out.println("2nd change by aishwarya");
+		
+		System.out.println("conflict statement 1");
 	}
 	
 
